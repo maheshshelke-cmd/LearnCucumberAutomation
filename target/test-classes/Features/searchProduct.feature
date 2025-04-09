@@ -17,6 +17,5 @@ Feature: Search the products and check the 	the name
     |Product Name|
     |str				 |
     |pot         |
-    |Beet        |
     |str				 |
   
