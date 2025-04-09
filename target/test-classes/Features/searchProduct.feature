@@ -18,4 +18,5 @@ Feature: Search the products and check the 	the name
     |str				 |
     |pot         |
     |Beet        |
+    |str				 |
   
